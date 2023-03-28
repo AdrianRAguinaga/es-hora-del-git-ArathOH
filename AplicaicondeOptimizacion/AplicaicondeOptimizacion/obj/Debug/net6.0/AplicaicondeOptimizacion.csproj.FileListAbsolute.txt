@@ -1,0 +1,15 @@
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\bin\Debug\net6.0\AplicaicondeOptimizacion.exe
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\bin\Debug\net6.0\AplicaicondeOptimizacion.deps.json
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\bin\Debug\net6.0\AplicaicondeOptimizacion.runtimeconfig.json
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\bin\Debug\net6.0\AplicaicondeOptimizacion.dll
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\bin\Debug\net6.0\AplicaicondeOptimizacion.pdb
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.csproj.AssemblyReference.cache
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.AssemblyInfoInputs.cache
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.AssemblyInfo.cs
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.csproj.CoreCompileInputs.cache
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.dll
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\refint\AplicaicondeOptimizacion.dll
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.pdb
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\AplicaicondeOptimizacion.genruntimeconfig.cache
+C:\Users\Arath\source\repos\AplicaicondeOptimizacion\AplicaicondeOptimizacion\obj\Debug\net6.0\ref\AplicaicondeOptimizacion.dll
